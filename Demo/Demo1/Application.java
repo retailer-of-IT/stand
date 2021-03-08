@@ -1,4 +1,4 @@
-package Demo;
+package Demo.Demo1;
 
 //import Demo.Demo1.outer;
 public class Application {

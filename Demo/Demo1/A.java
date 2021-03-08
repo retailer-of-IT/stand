@@ -1,4 +1,4 @@
-package Demo;
+package Demo.Demo1;
 
 public class A extends B {
     public void test() {

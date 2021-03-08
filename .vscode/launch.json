@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StartGame",
+            "request": "launch",
+            "mainClass": "snake.lib.StartGame",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch talkTeacher",
+            "request": "launch",
+            "mainClass": "Demo.Demo3.talkTeacher",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch talkStudent",
+            "request": "launch",
+            "mainClass": "Demo.Demo3.talkStudent",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch UDPClient",
+            "request": "launch",
+            "mainClass": "Demo.Demo2.UDPClient",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch UDPServer",
+            "request": "launch",
+            "mainClass": "Demo.Demo2.UDPServer",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tcpclient",
+            "request": "launch",
+            "mainClass": "Demo.Demo2.Tcpclient",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tcpserver",
+            "request": "launch",
+            "mainClass": "Demo.Demo2.Tcpserver",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestPc",
+            "request": "launch",
+            "mainClass": "Demo.kuang.TestPc",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeadLock",
+            "request": "launch",
+            "mainClass": "Demo.kuang.DeadLock",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestPriovity",
+            "request": "launch",
+            "mainClass": "Demo.kuang.TestPriovity",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestJoin",
+            "request": "launch",
+            "mainClass": "Demo.kuang.TestJoin",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestStop",
+            "request": "launch",
+            "mainClass": "Demo.kuang.TestStop",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestLambda",
+            "request": "launch",
+            "mainClass": "Demo.kuang.TestLambda",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestCallable",
+            "request": "launch",
+            "mainClass": "Demo.kuang.TestCallable",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestThread1",
+            "request": "launch",
+            "mainClass": "Demo.kuang.TestThread1",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "snake.src.App",
+            "projectName": "java_eb0ba108"
+        },
+        {
+            "type": "java",
             "name": "Launch time",
             "request": "launch",
             "mainClass": "Demo.Demo2.time",
